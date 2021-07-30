@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92084932265",
+    "project_id": "autismplay-247ce",
+    "storage_bucket": "autismplay-247ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92084932265:android:47d9cb090468bbec8ea3b8",
+        "android_client_info": {
+          "package_name": "com.app.autismplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92084932265-aclol154t9nhm8rcpvh2c3len06kpto7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.autismplay",
+            "certificate_hash": "dcc8324ba07060ceef8d2fc46863e3738c76c916"
+          }
+        },
+        {
+          "client_id": "92084932265-el3uvggosdl546rkuuvfj6rkbhqje9k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8DtGxvHAYEG8dJr2fD0cYl3VIcHzmZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92084932265-el3uvggosdl546rkuuvfj6rkbhqje9k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
